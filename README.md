@@ -1,7 +1,7 @@
 # UserManagement
 A Java application to manage user accounts.
 
-Used tools: Springboot, PostgreSQL.
+Tools which used: Springboot, PostgreSQL, Swagger.
 
 Feature:
 - Register an user
